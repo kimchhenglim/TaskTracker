@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaskTracker": {
+      "commandName": "Project",
+      "commandLineArgs": "list"
+    }
+  }
+}
